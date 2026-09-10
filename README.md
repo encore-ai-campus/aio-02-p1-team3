@@ -15,7 +15,7 @@
 
 **[🚀 서비스 바로가기](https://2026aio2ask-hr-frontend-qmyw7a2qrnz7gfsvy5rrnc.streamlit.app/)** · **[📖 API 문서 (Swagger)](https://two026-aio2-ask-hr-backend.onrender.com/docs)**
 
-AIO 2기 · 삼 팀 · 개발 2026.09.07 – 09.08 · 발표 2026.09.09
+AIO 2기 · 삼 팀 · 개발기간 2026.09.07 – 09.08 · 발표 2026.09.09
 
 </div>
 
